@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reverse recorder</string>
+    <string name="recording_time_in_seconds">Длительность записи в секундах</string>
+    <string name="dictafone">Диктофон</string>
+    <string name="start_recording">Начать запись</string>
+    <string name="stop_recording">Остановить запись</string>
+    <string name="player">Плеер</string>
+    <string name="listen_record">Прослушать запись</string>
+    <string name="pause_record">Пауза</string>
+    <string name="stop_record">Стоп</string>
+</resources>
